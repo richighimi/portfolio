@@ -1,11 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
+import Homepage from './Views/Homepage.js'
 
 function App() {
   return (
     <div className="App">
-      <h1>My React App</h1>
-      <h2>Hahahahha</h2>
+      
+      <Homepage />
       
         
     </div>
